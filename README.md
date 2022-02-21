@@ -2,9 +2,6 @@
 
 ![game home screen](/images/screens/01.png)
 
-forked from
-* [softpedia.com](http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Arcade/BattleCity-Tanks-59571.shtml)
-* [code.google.com](https://code.google.com/archive/p/battle-city-tanks/)
 
 ## Keys and arguments
 
